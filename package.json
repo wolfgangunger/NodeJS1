@@ -1,0 +1,19 @@
+{
+    "name": "NodeJsProject1",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "UNGERW",
+    "contributors": [],
+    "dependencies": {
+        "async": "2.1.2",
+        "mathjs": "5.0.4",
+        "tulind": "0.8.11",
+        "util": "0.11.0"
+    }
+}
